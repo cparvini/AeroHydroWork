@@ -133,7 +133,7 @@ def get_freestream_info(u_inf, alpha, X, Y, N):
     ---------
     u_inf -- float; freestream velocity.
     alpha -- float; freestream angle of attack.
-    Y -- 2D matrix of float; mesh grid of y values.
+    X, Y -- 2D matrix of float; mesh grid of x and y values.
     N -- int; number of discrete points in each direction on our grid.
     
     Output
