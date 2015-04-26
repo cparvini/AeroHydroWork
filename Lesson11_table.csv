@@ -1,0 +1,5 @@
+Angle,Lift,Drag
+repr(theta_all[0]),repr(lift[0]),repr(drag[0])
+repr(theta_all[1]),repr(lift[1]),repr(drag[1])
+repr(theta_all[2]),repr(lift[2]),repr(drag[2])
+repr(theta_all[3]),repr(lift[3]),repr(drag[3])
