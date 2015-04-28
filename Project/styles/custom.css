@@ -61,6 +61,7 @@ div.text_cell_render{
     font-size: 50pt;
     line-height: 100%;
     color:#CD2305;
+    align: center;
     margin-bottom: 0.5em;
     margin-top: 0.5em;
     display: block;
@@ -68,6 +69,7 @@ div.text_cell_render{
 .text_cell_render h2 {
     font-family: 'Fenix', serif;
     font-size: 22pt;
+    color:#CC0000;
     line-height: 100%;
     margin-bottom: 0.1em;
     margin-top: 0.3em;
@@ -77,7 +79,8 @@ div.text_cell_render{
 .text_cell_render h3 {
     font-family: 'Fenix', serif;
     margin-top:12px;
-	font-size: 16pt;
+    font-size: 10pt;
+    align: center;
     margin-bottom: 3px;
     font-style: regular;
 }
